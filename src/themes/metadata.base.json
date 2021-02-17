@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "key": "$base-accent",
+      "value": "#d20519"
+    },
+    {
+      "key": "$badge-bg",
+      "value": "#e7b000"
+    },
+    {
+      "key": "$base-border-radius",
+      "value": "2px"
+    },
+    {
+      "key": "$base-success",
+      "value": "#7bbf05"
+    },
+    {
+      "key": "$base-danger",
+      "value": "#6c757d"
+    },
+    {
+      "key": "$base-warning",
+      "value": "#fcab0a"
+    }
+  ],
+  "baseTheme": "generic.carmine",
+  "outputColorScheme": "custom-scheme",
+  "assetsBasePath": "../../../node_modules/devextreme/dist/css/",
+  "base": true
+}
